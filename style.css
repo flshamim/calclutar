@@ -1,0 +1,19 @@
+.button-group{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    margin-bottom: 10px;
+}
+.sine-button{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    
+    margin-bottom: 10px;
+}
+.sine{
+    box-shadow: 5px 5px 5px black;
+}
+.box{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
